@@ -1,1 +1,1 @@
-VERSION=1.0.0-rc13 && docker build -t ${USER}/graalvm:${VERSION} .
+VERSION=1.0.0-rc14 && docker build -t ${USER}/graalvm:${VERSION} .
